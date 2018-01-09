@@ -63,6 +63,7 @@ GEM
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     rainbow (3.0.0)
+    rake (12.3.0)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
@@ -98,6 +99,7 @@ DEPENDENCIES
   breadcrumbs!
   fuubar
   pry
+  rake
   rspec
   rubocop
 
