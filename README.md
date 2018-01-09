@@ -37,5 +37,5 @@ end
 ```
 ### Who do I talk to? ###
 
-* https://github.com/yurakuzh
+* https://github.com/yurak
 * https://bitbucket.org/ykuzhiy
