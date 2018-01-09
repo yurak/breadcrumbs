@@ -1,0 +1,5 @@
+= Breadcrumbs
+
+Builder for CRUD and custom breadcrumbs with a bunch of helper methods
+
+Just include Breadcrumbs::Helpers into your ApplicationHelper.
